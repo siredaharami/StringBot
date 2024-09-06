@@ -20,7 +20,7 @@ async def must_join_channel(bot: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply_photo(
-                    photo="https://te.legra.ph/file/e25a563619c653328830d.jpg", caption=f"» ꜰɪʀꜱᴛʟʏ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ ꜰᴀᴍɪʟʏ ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ [ᴏꜰꜰɪᴄᴇ] https://t.me/ABT_BAD. ᴀꜰᴛᴇʀ ᴊᴏɪɴ ꜱᴛᴀʀᴛ ᴍᴇ !",
+                    photo="https://envs.sh/bPH.jpg", caption=f"» ꜰɪʀꜱᴛʟʏ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ ꜰᴀᴍɪʟʏ ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ [ᴏꜰꜰɪᴄᴇ] https://t.me/ABT_BAD. ᴀꜰᴛᴇʀ ᴊᴏɪɴ ꜱᴛᴀʀᴛ ᴍᴇ !",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
