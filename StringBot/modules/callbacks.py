@@ -3,7 +3,7 @@ from pyrogram.types import CallbackQuery
 
 from StringBot import Bad
 from StringBot.utils import gen_key
-from StringBot.modules.gen import gen_session
+from StringBot.modules.generate import gen_session
 
 
 @Bad.on_callback_query(
